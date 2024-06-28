@@ -31,7 +31,7 @@ Depending on your input, the dashboard will look something like this:
 &nbsp;
 
 
-**First, download the PowerBI file [FAO_WHISP_RISK_EN_dark 4.pbit](https://github.com/forestdatapartnership/whisp-dashboards/blob/a9af315c5a8839f40b0af3eb51e75917fd980569/FAO_WHISP_RISK_EN_dark%204.pbit). Then open it.**
+**First, download the PowerBI file [FAO_WHISP_RISK_EN_dark_5.pbit](FAO_WHISP_RISK_EN_dark_5.pbix). Then open it.**
 
 &nbsp;
 &nbsp;
