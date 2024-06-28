@@ -5,8 +5,7 @@
 The Whisp dashboard allows you to display statistics on deforestation risk in your plots in a **clear and understandable manner**.
 
 
-Through the [Whisp API](https://whisp.openforis.org/submit-geometry), risk analysis of your plots based on openly available map material has been made easy and convenient.   
-The output statistics from the Whisp API come in the well-established and interoperable CSV format that can be used for further analysis in a multitude of programs, including ***MS PowerBI***.
+Through the [Whisp API](https://whisp.openforis.org/submit-geometry), risk analysis of your plots based on openly available map material has been made easy and convenient. The output statistics from the Whisp API come in the well-established and interoperable CSV format that can be used for further analysis in a multitude of programs, including ***MS PowerBI***.
 
 
 Here you can find a pre-programmed ***MS PowerBI*** dashboard that can be filled with your individual risk analysis outputs from Whisp API.   This dashboard will provide the user with a clear overview of deforestation risk according to different sources in their plot. 
