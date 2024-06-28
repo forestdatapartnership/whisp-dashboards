@@ -1,10 +1,38 @@
 # Whisp Dashboards
 
+
+
+The Whisp dashboard allows you to display statistics on deforestation risk in your plots in a **clear and understandable manner**.
+
+
+Through the [Whisp API](https://whisp.openforis.org/submit-geometry), risk analysis of your plots based on openly available map material has been made easy and convenient.   
+The output statistics from the Whisp API come in the well-established and interoperable CSV format that can be used for further analysis in a multitude of programs, including ***MS PowerBI***.
+
+
+Here you can find a pre-programmed ***MS PowerBI*** dashboard that can be filled with your individual risk analysis outputs from Whisp API.   This dashboard will provide the user with a clear overview of deforestation risk according to different sources in their plot. 
+
+Depending on your input, the dashboard will look something like this:
+
+<img src="images/dashboard_filled.png" alt="Dashboard example" width="800"/>
+
+
+
+&nbsp;
+&nbsp;
 &nbsp;
 
 
 
-**Download and open the PowerBI file [FAO_WHISP_RISK_EN_dark 4.pbit](https://github.com/forestdatapartnership/whisp-dashboards/blob/a9af315c5a8839f40b0af3eb51e75917fd980569/FAO_WHISP_RISK_EN_dark%204.pbit).**
+
+## How to use it
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+**First, download the PowerBI file [FAO_WHISP_RISK_EN_dark 4.pbit](https://github.com/forestdatapartnership/whisp-dashboards/blob/a9af315c5a8839f40b0af3eb51e75917fd980569/FAO_WHISP_RISK_EN_dark%204.pbit). Then open it.**
 
 &nbsp;
 &nbsp;
@@ -21,7 +49,7 @@ You will initially receive this error message:
 
 Close the error message and you will see the yet unfilled dashboard: 
 
-<img src="images/choose_source_1.png" alt="Error Message" width="800"/>
+<img src="images/choose_source_squares.png" alt="Error Message" width="800"/>
 
 
 In order to fill it with data, go to the **Data** section on the right, and hover your cursor over **"whisp_output_table"** until you see the triple dots. 
@@ -32,7 +60,7 @@ In order to fill it with data, go to the **Data** section on the right, and hove
 
 Your are now in the Power Query Editor:
 
-<img src="images/choose_source_2.png" alt="Error Message" width="800"/>
+<img src="images/choose_source_2_squares.png" alt="Error Message" width="800"/>
 
 The **"APPLIED STEPS"** section shows what actions are taken to import and prepare the data for the dashboard.
 1. Click the gear icon next to *"Source"* to open the data access window. This is pre-set to take CSV-Files. You can download an examplary file to your local drive **[here](assets/whisp_output_table_sample.csv)**.
