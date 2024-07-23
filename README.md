@@ -31,7 +31,7 @@ Depending on your input, the dashboard will look something like this:
 &nbsp;
 
 
-**First, download the PowerBI file [FAO_WHISP_RISK_EN_dark_5.pbit](FAO_WHISP_RISK_EN_dark_5.pbit). Then open it.**
+**First, download the PowerBI file [FAO_WHISP_RISK_EN_dark.pbit](FAO_WHISP_RISK_EN_dark.pbit). Then open it.**
 
 &nbsp;
 &nbsp;
