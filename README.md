@@ -33,7 +33,7 @@ Each widget is interactive and provides different functionalities to filter and 
 &nbsp;
 
 
-**First, make sure you have Power Bi installed on your computer (you may need a license) and download the PowerBI template file from GitHub [FAO_Whisp_risk_EN.pbit](FAO_Whisp_risk_EN.pbit) or this [Google Link]([https://whisp.openforis.org/submit-geometry](https://drive.google.com/file/d/15lJ3UTkr1hD1GiUgCy5oCpvRjz1oWKB1/view?usp=drive_link). Open it.**
+**First, make sure you have Power Bi installed on your computer (you may need a license) and download the PowerBI template file from GitHub [FAO_Whisp_risk_EN.pbit](FAO_Whisp_risk_EN.pbit) or this [Google Link](https://drive.google.com/file/d/15lJ3UTkr1hD1GiUgCy5oCpvRjz1oWKB1/view?usp=drive_link). Open it.**
 
 &nbsp;
 &nbsp;
@@ -41,19 +41,13 @@ Each widget is interactive and provides different functionalities to filter and 
 
 ---
 
-The Power Bi template will connect to the sample data
-
-
-<img src="images/error-message.PNG" alt="Error Message" width="400"/>
+The Power Bi template will connect to the online [sample data] (whisp_sample_data_global.csv) and populate the visuals. You can also download this data yourself from GitHub or this [Google Link] (https://drive.google.com/file/d/1IWNWB7gwex5e2L2X_Lsrkqn5dIZwp-Eo/view?usp=drive_link)
 
 ---
 
-Close the error messages and you will see the yet blank dashboard: 
+In order to change the data source to your own data, click the **File Menu**, then **Options and Settings**
 
-<img src="images/choose_source_squares.png" alt="Error Message" width="800"/>
-
-
-In order to fill it with data, go to the **Data** section on the right, and hover your cursor over **"whisp_output_table"** until you see the triple dots. 
+<img src="images/Options_Settings.png" alt="Options and Settings" width="800"/>
 1. Click the triple dots.
 2. Click "Edit query".
 
