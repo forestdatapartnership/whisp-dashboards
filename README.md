@@ -47,7 +47,7 @@ The Power Bi template will connect to the online [sample data](whisp_sample_data
 
 In order to change the data source to your own data, click the **File Menu**, then **Options and Settings**
 
-<img src="images/Options_Settings.png" alt="Options and Settings" width="800"/>
+<img src="images/Options_Settings.png" alt="Options and Settings" width="600"/>
 
 
 ---
@@ -58,14 +58,14 @@ Select Change Source :
 
 You will need to replace the existing URL with the **complete path** to your local csv for example: C:\Temp\whisp_sample_data_global.csv
 
-<img src="images/replace_source.png" alt="replace source" width="800"/>
+<img src="images/replace_source.png" alt="replace source" width="600"/>
 
 and click **OK**
 
 ---
 
 You may need to click **apply changes** to refresh the dashboard elements should refresh with your data. Save your output file under a new name.
-<img src="images/apply_changes.png" alt="apply changes" width="800"/>
+<img src="images/apply_changes.png" alt="apply changes" width="600"/>
 &nbsp;
 &nbsp;
 &nbsp;
