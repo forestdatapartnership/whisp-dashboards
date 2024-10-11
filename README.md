@@ -33,7 +33,7 @@ Each widget is interactive and provides different functionalities to filter and 
 &nbsp;
 
 
-**First, make sure you have Power Bi installed on your computer (you may need a license) and download the PowerBI template file from GitHub [FAO_Whisp_risk_EN.pbit](FAO_Whisp_risk_EN.pbit) or this [Google Link](https://drive.google.com/file/d/15lJ3UTkr1hD1GiUgCy5oCpvRjz1oWKB1/view?usp=drive_link). Open it.**
+First, make sure you have Power Bi installed on your computer (you may need a license) and download the PowerBI template file from GitHub [FAO_Whisp_risk_EN.pbit](FAO_Whisp_risk_EN.pbit) or this [Google Link](https://drive.google.com/file/d/15lJ3UTkr1hD1GiUgCy5oCpvRjz1oWKB1/view?usp=drive_link). Open it.
 
 &nbsp;
 &nbsp;
@@ -41,7 +41,7 @@ Each widget is interactive and provides different functionalities to filter and 
 
 ---
 
-The Power Bi template will connect to the online [sample data] (whisp_sample_data_global.csv) and populate the visuals. You can also download this data yourself from GitHub or this [Google Link] (https://drive.google.com/file/d/1IWNWB7gwex5e2L2X_Lsrkqn5dIZwp-Eo/view?usp=drive_link)
+The Power Bi template will connect to the online [sample data](whisp_sample_data_global.csv) and populate the visuals. You can also download this data from this [Google Link](https://drive.google.com/file/d/1IWNWB7gwex5e2L2X_Lsrkqn5dIZwp-Eo/view?usp=drive_link)
 
 ---
 
