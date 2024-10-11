@@ -2,15 +2,15 @@
 
 
 
-The Whisp dashboard allows you to display statistics on deforestation risk in your plots in a **clear and understandable manner**.
+The Whisp dashboard allows you to display statistics on deforestation risk in your plots in a **clear and interactive manner**.
 
 
-Through the [Whisp App](https://whisp.openforis.org/submit-geometry), risk analysis of your plots based on openly available map material has been made easy and convenient. Upload your geometries as GeoJSONs in EPSG 4326 projection in the Whisp app and make sure to tick the box "Generate GeoIds". The output statistics from the Whisp App come in the well-established and interoperable CSV format that can be used for further analysis in a multitude of programs, including ***MS PowerBI***.
+Through the [Whisp App](https://whisp.openforis.org/submit-geometry), risk analysis of your plots based on open source spatial data has been made easy and convenient. Upload your geometries as GeoJSONs in EPSG 4326 projection in the Whisp app and make sure to tick the box "Generate GeoIds". The output statistics from the Whisp App are delivered in the well-established and interoperable CSV format that can be used for further analysis in a multitude of programs, including ***MS PowerBI***, ***Tableau*** or other software of choice.
 
 
-Here you can find a pre-programmed ***MS PowerBI*** dashboard that can be filled with your individual risk analysis outputs from Whisp App.   This dashboard will provide the user with a clear overview of deforestation risk according to different sources in their plot. 
+Here you can find dashboard templates that can be adapted and updated with your individual risk analysis outputs from Whisp App.  These dashboards provide users with a clear overview of deforestation risk indicators according to different data sources in their plot. 
 
-Depending on your input, the dashboard will look something like this:
+The default dashboard is pre-loaded with sample global data:
 
 <img src="images/dashboard_filled.png" alt="Dashboard example" width="800"/>
 
@@ -20,7 +20,9 @@ Depending on your input, the dashboard will look something like this:
 &nbsp;
 &nbsp;
 
+Each widget is interactive and provides different functionalities to filter and explore your Whisp outputs:
 
+<img src="images/dashboard_desc.png" alt="Dashboard features" width="800"/>
 
 
 ## How to use it
