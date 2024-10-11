@@ -64,9 +64,8 @@ and click **OK**
 
 ---
 
-The dashboard elements should refresh with your data. Save your output file under a new name.
-
- 
+You may need to click **apply changes** to refresh the dashboard elements should refresh with your data. Save your output file under a new name.
+<img src="images/apply_changes.png" alt="apply changes" width="800"/>
 &nbsp;
 &nbsp;
 &nbsp;
