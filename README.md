@@ -10,7 +10,7 @@ Through the [Whisp App](https://whisp.openforis.org/submit-geometry), risk analy
 
 Here you can find dashboard templates that can be adapted and updated with your individual risk analysis outputs from Whisp App.  These dashboards provide users with a clear overview of deforestation risk indicators according to different data sources in their plot. 
 
-The default ***MS PowerBI*** dashboard, including all widgets, filters and power queries to prepare the data to be visualized. You can view the template with the sample global data:
+The default ***MS PowerBI*** dashboard, including all widgets, filters and power queries to prepare the data to be visualized. You can view the template with the sample global data (click the image below to open the interactive dashboard in a new tab):
 
 [<img src="images/dashboard_filled.png" alt="Dashboard example" width="800"/>](https://app.powerbi.com/view?r=eyJrIjoiMjFhNjFhZWYtYWJhZi00ZTY2LWIwMWItMzQ4MDkxNzg4NTQ4IiwidCI6IjE2M2FjNDY4LWFiYjgtNDRkMC04MWZkLWQ5ZGIxNWUzYWY5NiIsImMiOjh9)
 
