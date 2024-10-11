@@ -48,28 +48,23 @@ The Power Bi template will connect to the online [sample data] (whisp_sample_dat
 In order to change the data source to your own data, click the **File Menu**, then **Options and Settings**
 
 <img src="images/Options_Settings.png" alt="Options and Settings" width="800"/>
-1. Click the triple dots.
-2. Click "Edit query".
+
 
 ---
 
-Your are now in the Power Query Editor:
+Select Change Source :
 
-<img src="images/choose_source_2_squares.png" alt="Error Message" width="800"/>
+<img src="images/change_source.png" alt="change_source" width="800"/>
 
-The **"APPLIED STEPS"** section shows what actions are taken to import and prepare the data for the dashboard.
-1. Click the gear icon next to *"Source"* to open the data access window. This is pre-set to take CSV-Files. You can download an examplary file to your local drive **[here](assets/whisp_output_table_sample.csv)**.
-2. Select this file from your local drive.
-3. Press **"OK"**.
-4. The data will now appear.
-5. Finally, click **"Close & Apply"**.
+You will need to replace the existing URL with the **complete path** to your local csv for example: C:\Temp\whisp_sample_data_global.csv
+
+<img src="images/replace_source.png" alt="replace source" width="800"/>
+
+and click **OK**
 
 ---
 
-
-You will now find your dashboard filled with data, looking something like this:
-
-<img src="images/dashboard_filled.png" alt="Error Message" width="800"/>
+The dashboard elements should refresh with your data. Save your output file under a new name.
 
  
 &nbsp;
@@ -77,7 +72,7 @@ You will now find your dashboard filled with data, looking something like this:
 &nbsp;
 
 
-The dashboard elements should refresh with your data. Save your output file under a new name.
+
 ***
 **Happy WHISPing!**
 
