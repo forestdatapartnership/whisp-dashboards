@@ -1,4 +1,4 @@
-# Whisp Dashboards
+﻿# Whisp Dashboards
 
 
 
@@ -71,6 +71,20 @@ You may need to click **apply changes** to refresh the dashboard elements should
 &nbsp;
 &nbsp;
 &nbsp;
+
+## Tableau Dashboard
+
+We have also developed, due to popular demand, a **Tableau dashboard** with the same widgets and functions.  
+
+You can access a downloadable version from GitHub or view it directly on Tableau Public:  
+👉 [**Tableau Public Dashboard**](https://public.tableau.com/app/profile/aurelie.shapiro/viz/Whisp_risk_EN/EUDRRisk)
+
+![Tableau Dashboard Screenshot](images/Tableau_whisp_dashboard.png)
+
+### Replacing Data Sources
+
+Replacing data sources can be complicated. The easiest way to ingest your data directly is to rename your WHISP output file to: whisp_data.csv and replace the sample data file in the Tableau repository folder.
+
 
 
 
