@@ -83,13 +83,16 @@ You can access a downloadable version from GitHub or view it directly on Tableau
 
 ### Replacing Data Sources
 
-Replacing data sources can be complicated. The easiest way to ingest your data directly is to rename your WHISP output file to: whisp_data_tableau.csv and replace the sample data file in the Tableau repository folder with your data.
+Replacing data sources in Tableau can be complicated. The easiest way to ingest your data directly is to rename your WHISP output file to: whisp_data_tableau.csv and replace the sample data file in the Tableau repository folder with your data. Here's a video that shows the steps:
 
-
-
+https://github.com/user-attachments/assets/2f5d73f8-ade3-4b5d-a94f-1f6f953a58f4
 
 ***
 **Happy WHISPing!**
+
+
+
+
 
  
 
